@@ -88,9 +88,6 @@ while (check)
 }
 ```
 
-# Foreach цикъл
-
-
 # Масиви []
 
 
