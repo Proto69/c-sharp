@@ -79,6 +79,15 @@ while (a != 0)
 }
 ```
 
+```
+//пример за while цикъл по начина, който обясних
+bool check = true;
+while (check)
+{
+  if (Console.ReadLine() == "Stop") check = false; 
+}
+```
+
 # Foreach цикъл
 
 
