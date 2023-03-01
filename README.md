@@ -1,6 +1,6 @@
 # C# Basics
 
-Основното, което е нужно е .Net и (Visual Studio)[https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false]
+Основното, което е нужно е .Net и [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
 
 # Основни типове данни
 
